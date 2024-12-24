@@ -17,8 +17,8 @@
 
 - **Java**: The core programming language for developing the app.
 - **Android Studio**: The Integrated Development Environment (IDE) used for app development.
-- **Firebase**: For authentication, real-time database, and notifications (if used in the project).
-- **Google Maps API**: For mapping and location services (if applicable).
+- **Firebase**: For authentication, real-time database, and notifications.
+- **Google Maps API**: For mapping and location services .
 
 ## Setup & Installation
 
