@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="time_options">
+        <item>7:30 AM</item>
+        <item>5:30 PM</item>
+    </string-array>
+    <string-array name="time_options_without_7_30_am">
+        <item>5:30 PM</item>
+    </string-array>
+
+    <string-array name="area_options">
+        <item>KPZ</item>
+        <item>KIY</item>
+        <item>KIZ</item>
+        <item>KKM</item>
+        <item>KAB</item>
+        <item>KDO</item>
+        <item>KUO</item>
+        <item>KBH</item>
+        <item>KRK</item>
+        <item>KKM</item>
+        <item>FTSM</item>
+        <item>FUU</item>
+        <item>FSSK</item>
+        <item>FKAB </item>
+        <item>FPEND</item>
+        <item>FEP</item>
+        <item>FPI</item>
+        <item>FSK</item>
+        <item>CITRA</item>
+    </string-array>
+
+    <string-array name="pickup_areas_morning">
+        <item>KPZ</item>
+        <item>KIY</item>
+        <item>KIZ</item>
+        <item>KKM</item>
+        <item>KAB</item>
+        <item>KDO</item>
+        <item>KUO</item>
+        <item>KBH</item>
+        <item>KRK</item>
+        <item>KKM</item>
+        <item>FTSM</item>
+        <item>FUU</item>
+        <item>FSSK</item>
+        <item>FKAB </item>
+        <item>FPEND</item>
+        <item>FEP</item>
+        <item>FPI</item>
+        <item>FSK</item>
+        <item>CITRA</item>
+    </string-array>
+
+    <string-array name="dropoff_areas_morning">
+        <item>FTSM</item>
+        <item>FUU</item>
+        <item>FSSK</item>
+        <item>FKAB </item>
+        <item>FPEND</item>
+        <item>FEP</item>
+        <item>FPI</item>
+        <item>FSK</item>
+        <item>CITRA</item>
+        <item>KPZ</item>
+        <item>KIY</item>
+        <item>KIZ</item>
+        <item>KKM</item>
+        <item>KAB</item>
+        <item>KDO</item>
+        <item>KUO</item>
+        <item>KBH</item>
+        <item>KRK</item>
+        <item>KKM</item>
+    </string-array>
+
+    <string-array name="pickup_areas_evening">
+        <item>KPZ</item>
+        <item>KIY</item>
+        <item>KIZ</item>
+        <item>KKM</item>
+        <item>KAB</item>
+        <item>KDO</item>
+        <item>KUO</item>
+        <item>KBH</item>
+        <item>KRK</item>
+        <item>KKM</item>
+        <item>FTSM</item>
+        <item>FUU</item>
+        <item>FSSK</item>
+        <item>FKAB </item>
+        <item>FPEND</item>
+        <item>FEP</item>
+        <item>FPI</item>
+        <item>FSK</item>
+        <item>CITRA</item>
+    </string-array>
+
+    <string-array name="dropoff_areas_evening">
+        <item>FTSM</item>
+        <item>FUU</item>
+        <item>FSSK</item>
+        <item>FKAB </item>
+        <item>FPEND</item>
+        <item>FEP</item>
+        <item>FPI</item>
+        <item>FSK</item>
+        <item>CITRA</item>
+        <item>KPZ</item>
+        <item>KIY</item>
+        <item>KIZ</item>
+        <item>KKM</item>
+        <item>KAB</item>
+        <item>KDO</item>
+        <item>KUO</item>
+        <item>KBH</item>
+        <item>KRK</item>
+        <item>KKM</item>
+    </string-array>
+</resources>
